@@ -63,6 +63,6 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IgnatEduardo&show_icons=true&locale=en&layout=compact" alt="eduardo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=IgnatEduardo&show_icons=true&locale=en&layout=compact&hide=html" alt="eduardo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=IgnatEduardo&" alt="eduardo" /></p>
